@@ -1,0 +1,5 @@
+theme: minima
+title: "BK Song"
+description: "Academic homepage of BK Song"
+markdown: kramdown
+highlighter: rouge
