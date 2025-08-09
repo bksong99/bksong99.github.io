@@ -4,10 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-<nav>
-  <a href="/">Home</a> · <a href="/research/">Research</a>
-</nav>
-
 # Research
 
 ## Published or Forthcoming Articles in Peer Reviewed Journals
