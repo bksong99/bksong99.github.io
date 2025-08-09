@@ -1,5 +1,8 @@
 theme: minima
 title: "BK Song"
-description: "Academic homepage of BK Song"
+
+header_pages:
+  - research.md
+
 markdown: kramdown
 highlighter: rouge
