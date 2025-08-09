@@ -19,6 +19,3 @@ permalink: /
 <p>I am an associate professor in the Department of Political Science at Sogang University. In 2022–2023, I was a visiting associate professor at the Wallis Institute of Political Economy at the University of Rochester. I received my Ph.D. from the Department of Government at Harvard University in 2015.</p>
 
 <p>You can find my CV <a href="/assets/cv_bksong.pdf" target="_blank"><strong>here</strong></a>.</p>
-
-<p><a href="/research/">Research</a></p>
-</div>
