@@ -8,6 +8,8 @@ permalink: /research/
 
 ## Published or Forthcoming Articles in Peer Reviewed Journals
 
+**22.** "The Effect of Incumbency in a Mixed-Member Electoral System," accepted for publication, *Electoral Studies*.
+
 **21.** “Inequality, Local Wealth, and Electoral Politics,” (with Woo Chang Kang), 2025, *European Journal of Political Economy*, vol. 80.
 
 **20.** “Making Sense of Heuristic Choice in Nonpartisan Elections: Evidence from South Korea,” (with Woo Chang Kang), 2024, *Political Behavior*, vol. 46, pp. 1865–1886.
