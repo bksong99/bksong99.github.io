@@ -1,11 +1,10 @@
 theme: minima
-
 title: "BK Song"
-
 header_pages:
   - index.md
   - research.md
   - cv.md
-
 markdown: kramdown
 highlighter: rouge
+plugins:
+  - jekyll-sitemap
