@@ -6,5 +6,3 @@ header_pages:
   - cv.md
 markdown: kramdown
 highlighter: rouge
-plugins:
-  - jekyll-sitemap
