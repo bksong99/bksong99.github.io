@@ -10,7 +10,7 @@ permalink: /research/
 
 **22.** "The Effect of Incumbency in a Mixed-Member Electoral System," forthcoming, *Electoral Studies*. [Link](https://www.sciencedirect.com/science/article/pii/S0261379425000940)
 
-**21.** "Inequality, Local Wealth, and Electoral Politics," (with Woo Chang Kang), 2025, *European Journal of Political Economy*, vol. 80. [Link](https://www.sciencedirect.com/science/article/pii/S0176268024001198)
+**21.** "Inequality, Local Wealth, and Electoral Politics," (with Woo Chang Kang), 2025, *European Journal of Political Economy*, vol. 80. <a href="https://www.sciencedirect.com/science/article/pii/S0176268024001198" target="_blank" rel="noopener noreferrer">Link</a>
 
 **20.** "Making Sense of Heuristic Choice in Nonpartisan Elections: Evidence from South Korea," (with Woo Chang Kang), 2024, *Political Behavior*, vol. 46, pp. 1865–1886. [Link](https://link.springer.com/article/10.1007/s11109-023-09899-2)
 
