@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Published or Forthcoming Articles in Peer Reviewed Journals
 
-**22.** "The Effect of Incumbency in a Mixed-Member Electoral System," accepted for publication, *Electoral Studies*. [Link](https://www.sciencedirect.com/science/article/pii/S0261379425000940)
+**22.** "The Effect of Incumbency in a Mixed-Member Electoral System," forthcoming, *Electoral Studies*. [Link](https://www.sciencedirect.com/science/article/pii/S0261379425000940)
 
 **21.** "Inequality, Local Wealth, and Electoral Politics," (with Woo Chang Kang), 2025, *European Journal of Political Economy*, vol. 80. [Link](https://www.sciencedirect.com/science/article/pii/S0176268024001198)
 
