@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Published or Forthcoming Articles in Peer Reviewed Journals
 
-**23.** "Do Voters Hold the President’s Party Accountable for Local Economic Conditions?" *Electoral Studies*, accepted for publication.
+**23.** "Do Voters Hold the President’s Party Accountable for Local Economic Conditions?" 2026, *Electoral Studies*, vol. 100. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0261379426000168" target="_blank" rel="noopener noreferrer">Link</a>
 
 **22.** "The Effect of Incumbency in a Mixed-Member Electoral System," 2025, *Electoral Studies*, vol. 98. <a href="https://www.sciencedirect.com/science/article/pii/S0261379425000940" target="_blank" rel="noopener noreferrer">Link</a>
 
