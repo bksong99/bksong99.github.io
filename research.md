@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Published or Forthcoming Articles in Peer Reviewed Journals
 
-**24.** "The Korean National Assembly Elections Dataset, 1948–2024: Complete Candidate-Level Records" (with Bomi Lee and In Hyee Hwang) accepted for publication, *Electoral Studies*.
+**24.** "The Korean National Assembly Elections Dataset, 1948–2024: Complete Candidate-Level Records," (with Bomi Lee and In Hyee Hwang) accepted for publication, *Electoral Studies*.
 
 **23.** "Do Voters Hold the President’s Party Accountable for Local Economic Conditions?" 2026, *Electoral Studies*, vol. 100. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0261379426000168" target="_blank" rel="noopener noreferrer">Link</a>
 
